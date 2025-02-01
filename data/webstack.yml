@@ -1,5 +1,5 @@
 ---
-- taxonomy: 开源自建
+- taxonomy: 开源自建（免翻墙）
   icon: far fa-star
   links:
     - title: Lobechat
@@ -63,44 +63,79 @@
       url: 
       description: 
 
-- taxonomy: 科研办公
+- taxonomy: AI资源
   icon: fas fa-flask fa-lg
-  list:
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        - title: 幕布
-          logo: mubu.png
-          url: https://mubu.com/app
-          description: 幕布，在线的一款思维概要整理工具，将思维以树形结构方式快速整理，书写成文。
-        - title: 印象笔记
-          logo: yinxiang.jpeg
-          url: https://yinxiang.com/
-          description: 帮助您捕捉灵感、项目和待办事项列表并确定其优先级，确保毫无疏漏。
-        - title: github
-          logo: github.jpg
-          url: https://github.com/
-          description: 线上源码托管网站。
-        - title: json格式化
-          logo: webfollow.png
-          url: https://weekendproject.online/json.html
-          description: json格式化。
+  links:
+    - title: Google Aistudio
+      logo: 
+      url: https://aistudio.google.com/
+      description: gemini对话语音视频都在此
+    - title: Google Labs
+      logo: 
+      url: https://labs.google/
+      description: 生成图片视频语音等
+    - title: Deepseek
+      logo: 
+      url: https://www.deepseek.com/
+      description: dp官网
+    - title: Lambda Chat
+      logo: 
+      url: https://lambda.chat/
+      description: 免费的dp R1
+    - title: Mistral
+      logo: 
+      url: https://mistral.ai/
+      description: 欧洲的ai可直接免费使用
+    - title: Groq
+      logo: 
+      url: https://console.groq.com/
+      description: 快
+    - title: Upstage
+      logo: 
+      url: https://console.upstage.ai/
+      description: 性价比高
+    - title: Openrouter
+      logo: 
+      url: https://openrouter.ai/
+      description: 提供免费api
+    - title: 硅基流动
+      logo: 
+      url: https://cloud.siliconflow.cn/
+      description: 国内的api性价比高
+    - title: 通义千问
+      logo: 
+      url: https://bailian.console.aliyun.com/
+      description: 阿里云国内的
+    - title: 月之暗面
+      logo: 
+      url: https://www.moonshot.cn/
+      description: 一般
+    - title: AI21labs
+      logo: 
+      url: https://www.ai21.com/
+      description: 以色列的
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
 
+    
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
