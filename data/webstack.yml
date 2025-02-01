@@ -5,11 +5,64 @@
     - title: Lobechat
       logo: 
       url: https://www.richardwebs.top/
-      description: AI聚合网站
+      description: LLM最强大聚合网站
+    - title: Gemini-next-chat
+      logo: 
+      url: https://gemini.richardwebs.top/
+      description: Gemini专属免翻墙客户端
+    - title: Midjourney
+      logo: 
+      url: https://mj.richardwebs.top/
+      description: 媒体生成AI站
+    - title: 谷歌学术镜像
+      logo: 
+      url: https://www.richardai.us.kg/
+      description: 免翻墙镜像
+    - title: Subweb
+      logo: 
+      url: https://subweb.richardwebs.top/
+      description: Clash节点转换
+    - title: 另一个subweb
+      logo: 
+      url: https://subtr.richardwebs.top/
+      description: 多了点远端配置
+    - title: IT工具箱
+      logo: 
+      url: https://tool.richardwebs.top/
+      description: IT用的箱子
+    - title: Mindmap
+      logo: 
+      url: https://mindmap.richardwebs.top/
+      description: 思维导图
+    - title: Calcium
+      logo: 
+      url: https://calcium.richardwebs.top/
+      description: 还不错的计算器
+    - title: 邮箱系统
+      logo: 
+      url: https://mail.richardwebs.top/
+      description: 很好用
+    - title: 通义千问OCR系统
+      logo: 
+      url: https://qwenocr.richardwebs.top/
+      description: ocr一般般
+    - title: Newsnow
+      logo: 
+      url: https://news.richardwebs.top/
+      description: 新闻获取
+    - title: Ipchecking
+      logo: 
+      url: https://ip.richardwebs.top/
+      description: 检查IP
+    - title: 本站
+      logo: 
+      url: https://tab.richardwebs.top/
+      description: 本站
     - title: 
       logo: 
       url: 
       description: 
+
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
