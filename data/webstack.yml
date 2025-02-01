@@ -2,70 +2,14 @@
 - taxonomy: 开源自建
   icon: far fa-star
   links:
-    - title: Cloudreve
-      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
-      url: https://github.com/cloudreve/Cloudreve
-      description: 具有多云支持的自托管文件管理系统。
-    - title: youtube-dl
-      logo: github.jpg
-      url: https://github.com/ytdl-org/youtube-dl
-      description: 从 youtube.com 或其他视频平台下载视频。
-    - title: you-get
-      logo: github.jpg
-      url: https://github.com/soimort/you-get
-      description: 用于从 Web 下载媒体内容（视频、音频、图像），以防万一没有其他方便的方法来执行此操作。。
-    - title: mmPlayer
-      logo: QQ音乐.jpg
-      url: https://github.com/maomao1996/Vue-mmPlayer
-      description: mmPlayer 是由茂茂开源的一款在线音乐播放器，具有音乐搜索、播放、歌词显示、播放历史、查看歌曲评论、网易云用户歌单播放同步等功能。
-    - title: nuclear
-      logo: https://camo.githubusercontent.com/3bb53de3e077dd54d2fb2cf66a88f5b680fa6e1ce921b2391715fed7371c7298/68747470733a2f2f692e696d6775722e636f6d2f6f5431303036692e706e67
-      url: https://github.com/nukeop/nuclear
-      description: 专注于从免费资源流式传输的桌面音乐播放器。
-    - title: MyBookshelf
-      logo: github.jpg
-      url: https://github.com/gedoor/MyBookshelf
-      description: 是一款可以自定义网络来源内容的阅读工具。
-    - title: novel
-      logo: github.jpg
-      url: https://github.com/201206030/novel
-      description: 搭建自己的小说网站。
-    - title: RSSHub
-      logo: https://camo.githubusercontent.com/88bea50597d637a4a37515c77fe3bbc826e9481c405772c717ccda414bf6c6b1/68747470733a2f2f646f63732e7273736875622e6170702f6c6f676f2e706e67
-      url: https://github.com/DIYgod/RSSHub
-      description: 一切都是RSSible。
-    - title: top-rss-list
-      logo: github.jpg
-      url: https://github.com/weekend-project-space/top-rss-list
-      description: 中文区优质rss源。
-    - title: FFmpeg
-      logo: github.jpg
-      url: https://github.com/FFmpeg/FFmpeg
-      description: FFmpeg 是用于处理音频、视频、字幕和相关元数据等多媒体内容的库和工具的集合。
-    - title: notea
-      logo: github.jpg
-      url: https://github.com/notea-org/notea
-      description: 存储在 S3 上的自托管笔记应用程序。
-    - title: laverna
-      logo: github.jpg
-      url: https://github.com/Laverna/laverna
-      description: Laverna 是一个 JavaScript 笔记应用程序，具有 Markdown 编辑器和加密支持。将其视为 Evernote 的开源替代品。
-    - title: trilium
-      logo: github.jpg
-      url: https://github.com/zadam/trilium
-      description: 使用 Trilium Notes 建立您的个人知识库。
-    - title: e9x
-      logo: e9x.png
-      url: https://github.com/weekend-project-space/e9x-fun
-      description: 一键免费部署自己的导航。
-    - title: web tv
-      logo: web-tv.png
-      url: https://github.com/weekend-project-space/web-tv
-      description: 一键免费部署自己的在线小电视。
-    - title: web fm
-      logo: 01234.png
-      url: https://github.com/weekend-project-space/fm-online
-      description: 一键免费部署自己的在线FM，收听全球广播。
+    - title: Lobechat
+      logo: 
+      url: https://www.richardwebs.top/
+      description: AI聚合网站
+    - title: 
+      logo: 
+      url: 
+      description: 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
