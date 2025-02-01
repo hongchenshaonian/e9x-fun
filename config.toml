@@ -35,10 +35,10 @@ key = ""
 favicon = "/assets/images/favicon.ico"
 searchImageL = "/assets/images/bgt.jpg"        # 搜索部分浅色背景图
 searchImageD = "/assets/images/bgt.jpg"        # 搜索部分深色背景图
-logoExpandLight = "/assets/images/logo.png"
-logoExpandDark = "/assets/images/logo.png"
-logoCollapseLight = "/assets/images/logo.png"
-logoCollapseDark = "/assets/images/logo.png"
+logoExpandLight = "/assets/images/image_fx_ (3).jpg"
+logoExpandDark = "/assets/images/image_fx_ (3).jpg"
+logoCollapseLight = "/assets/images/image_fx_ (3).jpg"
+logoCollapseDark = "/assets/images/image_fx_ (3).jpg"
 
 [markup.goldmark.renderer]
 unsafe = true
