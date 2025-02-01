@@ -33,8 +33,8 @@ key = ""
 
 [params.images]
 favicon = "/assets/images/favicon.ico"
-searchImageL = "/assets/images/bg.jpg"        # 搜索部分浅色背景图
-searchImageD = "/assets/images/bg.jpg"        # 搜索部分深色背景图
+searchImageL = "/assets/images/bgt.jpg"        # 搜索部分浅色背景图
+searchImageD = "/assets/images/bgt.jpg"        # 搜索部分深色背景图
 logoExpandLight = "/assets/images/logo.png"
 logoExpandDark = "/assets/images/logo.png"
 logoCollapseLight = "/assets/images/logo.png"
